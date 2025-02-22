@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael H. Esposito - Biography and CV</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/latex.css@latest/style.min.css">
+    <style>
+        body {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .header {
+            display: flex;
+            align-items: center; /* Changed from flex-start to center */
+            margin-bottom: 30px;
+        }
+        .header-photo {
+            width: 150px;
+            height: auto;
+            border-radius: 3px;
+            margin-right: 30px;
+            flex-shrink: 0;
+            margin-top: 0px; /* Added margin-top to move the image down */
+        }
+        .header-content {
+            flex-grow: 1;
+        }
+        .header-content h1 {
+            margin-top: 0;
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        .header-content p {
+            margin: 5px 0;
+            text-align: left;
+        }
+        .chair-title {
+            font-style: italic;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            margin-bottom: 10px;
+        }
+        .cv-section {
+            margin: 30px 0;
+            text-align: center;
+        }
+        .back-link {
+            margin-top: 30px;
+            text-align: center;
+        }
+        .cv-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            text-decoration: none;
+            color: #333;
+            font-family: 'Computer Modern Serif', serif;
+            transition: background-color 0.3s;
+        }
+        .cv-button:hover {
+            background-color: #e0e0e0;
+        }
+        /* Updated styles for illustrated list with centered images */
+        .illustrated-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .illustrated-list li {
+            display: flex;
+            align-items: center; /* Changed to center to vertically align images with text */
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px dotted #ddd;
+        }
+        .illustrated-list li:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        .list-image {
+            width: 370px;
+            height: auto;
+            flex-shrink: 0;
+            align-self: center; /* Additional centering for the image */
+            object-fit: contain; /* Preserves aspect ratio */
+        }
+        .list-content {
+            flex-grow: 1;
+            padding: 0 15px;
+        }
+        /* Alternate image positions */
+        .image-left {
+            order: 1;
+            margin-right: 15px;
+        }
+        .content-left {
+            order: 2;
+        }
+        .image-right {
+            order: 2;
+            margin-left: 15px;
+        }
+        .content-right {
+            order: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="headshot.jpg" alt="Michael H. Esposito" class="header-photo">
+        <div class="header-content">
+            <h1>Michael H. Esposito</h1>
+            <p>Assistant Professor • <span class="chair-title">Don A. Martindale Endowed Chair in Sociology</span></p>
+            <p>University of Minnesota</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Biography</h2>
+        <p>Prior to joining the University of Minnesota in 2023, I served as an Assistant Professor at Washington University in St. Louis (2021-2023) and as a Postdoctoral Fellow at the University of Michigan (2018-2021). I completed my PhD in Sociology at the University of Washington in 2018, where I also received certificates in Demography and Statistics.</p>
+    </div>
+
+    <div class="section">
+        <h2>Research Focus</h2>
+        <p>My research identifies the structural mechanisms that generate population health inequality in the US, with a particular focus on racial and class-based disparities. I examine how Black and working class Americans have consistently experienced disproportionate illness and premature death compared to their White and professional class peers. My work demonstrates that these durable disparities stem from racism and classism embedded in our political, economic, and social systems -- powerful organizing logics that have kept health-relevant privileges and imposed hazards allocated along similar lines for as long as we've been collecting population health data.</p>
+        
+        <p>I generally contribute to this area in three ways:</p>
+        <ul class="illustrated-list"> 
+            <li>
+                <img src="pic3.png" alt="Figure 1" class="list-image image-left">
+                <div class="list-content content-left">
+                    (<i>first,</i>) by documenting the concrete and variable harms that <i>specific</i> institutions at <i>specific</i> moments of time have played in creating health vulnerabilities. (E.g., how residential segregation currently generates massive inequalities in ADRD risks; how discriminatory laws from decades ago overlap with unequal mortality vulnerabilities today.)
+                </div>
+            </li> 
+
+            <li>
+                <img src="p2.png" alt="Figure 2" class="list-image image-right">
+                <div class="list-content content-right">
+                    (<i>second,</i>) by conceptualizing how these discriminatory logics not only segment access to resources and exposure to hazards, but also distort social processes that are (made) fundamental for wellbeing in the US. (E.g., how social mobility yields unequal health returns across racial groups.)
+                </div>
+            </li> 
+
+            <li>
+                <img src="red_pic.png" alt="Figure 3" class="list-image image-left">
+                <div class="list-content content-left">
+                    & (<i>third,</i>) by ruminating on -- and sometimes attempting to address -- the challenges of using quantitative data to accurately capture and analyze the complicated, often multilevel causal processes that produce health inequality.
+                </div>
+            </li> 
+        </ul>
+    </div>
+
+    <div class="cv-section">
+        <h2>Curriculum Vitae</h2>
+        <p>For a complete overview of my academic and professional experience -- including publications, presentations, grants, and teaching experience -- please see my CV:</p>
+        <p><a href="cv.pdf" target="_blank" class="cv-button">View CV (PDF)</a></p>
+    </div>
+
+    <div class="back-link">
+        <a href="index.html">Back to Home</a>
+    </div>
+</body>
+</html>
