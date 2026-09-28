@@ -188,7 +188,7 @@ population health; race; statistical methodology; social/spatial context
 1. **Covenanted-Policing: How does historical spatial racism shape contemporary policing practices?**\\
    Christopher Robertson, **Michael Esposito**
 1. **Sixty Years of Testimony: Tracing the U.S. State's Changing Role in Children's and Families' Lives with Large Language Models**\\
-   Eunhye Ahn, Sarah Flood, **Michael Esposito**
+   Eunhye Ahn, Sarah Font, **Michael Esposito**
 {: reversed="reversed"}
 
 ## Fellowships & Grants
