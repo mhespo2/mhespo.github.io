@@ -6,37 +6,80 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/latex.css@latest/style.min.css">
     <style>
+        /* palette pulled from the home page figure (p1.svg) */
+        :root {
+            --band: #30413d;
+            --band-ink: #f4f0e2;
+            --gold: #d9b45a;
+            --teal: #3a7d83;
+            --ochre: #b1820e;
+            --terracotta: #cb6757;
+            --sage: #69987f;
+            --tan: #b07943;
+            --slate: #7b7d9c;
+            --ink: #1f2a28;
+        }
         body {
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
             line-height: 1.6;
+            background: #f4f4f4;
+            color: var(--ink);
+        }
+        a {
+            color: #2f6d72;
         }
         .cv-header {
             text-align: center;
-            margin-bottom: 10px;
+            background: var(--band);
+            color: var(--band-ink);
+            /* extend the band edge to edge without causing sideways scroll */
+            box-shadow: 0 0 0 100vmax var(--band);
+            clip-path: inset(0 -100vmax);
+            margin: -20px 0 30px;
+            padding: 35px 0 25px;
         }
         .cv-header h1 {
             margin-bottom: 5px;
+            color: var(--band-ink);
         }
         .cv-header p {
             margin: 2px 0;
             text-align: center;
         }
+        .cv-header a {
+            color: var(--gold);
+        }
         .updated {
             font-size: 0.85em;
             font-style: italic;
+            opacity: 0.75;
         }
         h2 {
             margin-top: 35px;
             margin-bottom: 10px;
-            border-bottom: 1px solid #ddd;
+            padding-left: 12px;
+            border-left: 6px solid var(--block);
+            color: var(--band);
+            font-variant: small-caps;
+            letter-spacing: 0.05em;
         }
+        /* color blocks cycle through the palette, one per section */
+        h2:nth-of-type(6n+1) { --block: var(--teal); }
+        h2:nth-of-type(6n+2) { --block: var(--ochre); }
+        h2:nth-of-type(6n+3) { --block: var(--terracotta); }
+        h2:nth-of-type(6n+4) { --block: var(--sage); }
+        h2:nth-of-type(6n+5) { --block: var(--tan); }
+        h2:nth-of-type(6n)   { --block: var(--slate); }
         ul, ol {
             padding-left: 1.8em;
         }
         li {
             margin-bottom: 12px;
+        }
+        li::marker {
+            color: var(--band);
         }
         ol li::marker {
             font-size: 0.85em;
