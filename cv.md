@@ -38,9 +38,30 @@ population health; race; statistical methodology; social/spatial context
 
 ## Journal Articles
 
+1. **Measuring "third places": Comparing neighborhood data for cognitive health research**\\
+   Jessica M. Finlay, David Rigby, Amber DeJohn, Yue Sun, Brigette A. Davis, Arwa Aldulaimy, Desiree Alvarez-McNelis, Ainsley Bowie, Karis Hawkins, Zhe Lin, Weining Kan, Taylor S. Ketterhagen, Xinyu Lin, Stephen B. Liwur, Mallory Sagehorn, Laine Sullivan, Lucy Vaughan, Shangrui Zhu, Ania Berry, Margaret T. Hicken, **Michael H. Esposito**\\
+   *Alzheimer's & Dementia*, 2026.
+1. **Drive with me: Utilizing car-based mobile interviews to investigate place and health**\\
+   Grace M. Savard, Mallory A. P. Sagehorn, Desiree L. Alvarez-McNelis, **Michael H. Esposito**, Jessica M. Finlay\\
+   *SSM - Qualitative Research in Health*, 2026.
+1. **Sociohistorical contexts of racial violence: sundown towns and the durability of racialized public space**\\
+   David Rigby, **Michael H. Esposito**, Tyson H. Brown, Hedwig Lee, Sierra Clark\\
+   *Ethnic and Racial Studies*, 2026.
+1. **Cognability across adulthood: A qualitative investigation of neighborhoods and cognitive health behaviors**\\
+   Jessica Finlay, Grace Savard, Desiree Alvarez-McNelis, Mallory Sagehorn, Grace Bowman, Yue Sun, **Michael Esposito**\\
+   *Social Science and Medicine*, 2026.
+1. **How do counties' industrial structures shape geographic disparities in cardiovascular disease mortality?**\\
+   Yue Sun, **Michael H. Esposito**\\
+   *Social Science and Medicine*, 2026.
+1. **Uneven access to essential services and amenities: geographic disparities in 'third place' availability across the United States from 2010 to 2021**\\
+   Yue Sun, **Michael H. Esposito**, Mallory Sagehorn, Robert A. Melendez, Jessica M. Finlay\\
+   *Health & Place*, 2025.
 1. **Incarceration and psychiatric emergency department visits among Black Americans**\\
-   Abhery Das, **Michael Esposito**, Hedwig Lee, Tim Bruckner\\
-   *Milbank Quarterly*, forthcoming.
+   Abhery Das, **Michael Esposito**, Tim A. Bruckner, Hedwig Lee\\
+   *Milbank Quarterly*, 2025.
+1. **Trust, trust repair, and public health: a scoping review**\\
+   Peter Kalulu, Aubrey Fisher, G. Whitter, I. Sener, M. Doering, David B. Carter, Matthew Gabel, Jimin Ding, **Michael Esposito**, Caitlin L. McMurtry, P. Sopory, Mark D. Huffman\\
+   *Frontiers in Public Health*, 2025.
 1. **A National Data Set of Historical US Sundown Towns for Quantitative Analysis**\\
    David Rigby, **Michael H. Esposito**, Hedwig Lee, David Van Riper, Margaret Hicken, Stephen Berrey\\
    *Scientific Data*, 2025.
@@ -146,23 +167,20 @@ population health; race; statistical methodology; social/spatial context
 
 ## Manuscripts in Progress
 
-*Includes the five projects closest to publication.*
+*Includes the projects closest to publication.*
 
-1. **American Eco-Apartheid: Mapping the links between racial disparities in longevity with political economy, state violence, and environmental exposure**\\
-   Daniel Aldana Cohen, Nick Graetz, Seth J. Prins, **Michael Esposito**\\
-   Revise and resubmit.
-1. **Sundown Towns and the Contemporary, Racialized Organization of Space**\\
-   David Rigby, Sierra Clark, **Michael H. Esposito**, Hedwig E. Lee, Tyson Brown\\
-   Under review.
 1. **Neighborhood Exposure to Police Violence: A Racialized Geography of Fatal Encounters**\\
-   Carmen Gutierrez, Robert Melendez, **Michael Esposito**, Lindsay Gypin, Grace Noppert\\
-   In preparation.
-1. **Professional Football Players and Mortality Consequences Over Time**\\
-   Nadia Jackson-Fitch, John R. Warren, Gina Rumore, **Michael Esposito**, Douglas Hartmann\\
-   In preparation.
+   Carmen Gutierrez, Robert Melendez, **Michael Esposito**, Lindsay Gypin, Grace Noppert
+1. **Skin Tone Measurement via Agentic AI**\\
+   Jack Hasche, John Robert Warren, **Michael H. Esposito**
+1. **From Amenity to Disamenity: Rethinking Neighborhood Resources and Health**\\
+   Jessica Finlay, Hayes Hart-Thompson, Zhe Lin, Mallory Sagehorn, Grace Savard, **Michael Esposito**
+1. **The Scarcity of Guidance for Communicating Race, Ethnicity, Sex, and Gender in Journals**\\
+   Rae Anne Martinez, **Michael Esposito**, Nafeesa Andrabi, Noah Haber, Natalie Riva Smith, Kene Orakwue, Lilian Norman
 1. **Covenanted-Policing: How does historical spatial racism shape contemporary policing practices?**\\
-   Christopher Robertson, **Michael Esposito**\\
-   In preparation.
+   Christopher Robertson, **Michael Esposito**
+1. **Sixty Years of Testimony: Tracing the U.S. State's Changing Role in Children's and Families' Lives with Large Language Models**\\
+   Eunhye Ahn, Sarah Flood, **Michael Esposito**
 {: reversed="reversed"}
 
 ## Recent Presentations
