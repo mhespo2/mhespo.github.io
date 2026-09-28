@@ -183,9 +183,42 @@ population health; race; statistical methodology; social/spatial context
    Eunhye Ahn, Sarah Flood, **Michael Esposito**
 {: reversed="reversed"}
 
+## Fellowships & Grants
+
+- **Life Course Cognability: A Mixed Methods Study of Neighborhoods and Cognitive Health** (MPI)\\
+  PIs: Jessica Finlay (contact), Michael Esposito\\
+  NIH National Institute on Aging, R01AG099180 (2026–2031)
+- **Estimating the impact of the school-to-prison pipeline on adolescent health: racialized, spatial disparities in policing, school discipline, substance use, and mental illness** (Co-I)\\
+  PI: Seth Prins, Columbia University\\
+  NIH (2024–2028)
+- **Examining racial segregation and underlying mechanisms related to VCID and incident stroke in the REGARDS study** (Co-I)\\
+  PI: Natalie Colabianchi, University of Michigan\\
+  NINDS (2022–2026)
+- **DNA methylation in context: Racial inequities in social adversity and vulnerability to the health impact of air pollution** (Co-I)\\
+  PI: Margaret Hicken, University of Michigan\\
+  NIH (2021–2026)
+- **Life Course Cognability: A Mixed Methods Study of the Place-Based Determinants of Late-Age Cognitive Health Outcomes** (Co-PI)\\
+  PIs: Jessica Finlay, Michael Esposito\\
+  University of Minnesota Life Course Center Pilot Grant (2023–2024)
+- **The Relationship Between State Violence, Trust in Government, and Vaccine Uptake** (Co-PI)\\
+  PIs: Caitlin McMurtry, Michael Esposito, Matthew Gabel, Darrell Hudson\\
+  Washington University Transdisciplinary Institute in Applied Data Sciences Seed Grant (2023–2024)
+- **The St. Louis Policy Initiative: Segregation, Public Health, and Environmental Policy** (Co-PI)\\
+  PIs: Michael Esposito, Matthew Gabel, Elizabeth Korver-Glenn, Scott Krummenacher, Andrew Reeves\\
+  Washington University Incubator for Transdisciplinary Futures (2022–2025)
+- **Trust and Public Health Incubator** (Co-PI)\\
+  PIs: David Carter, Michael Esposito, Matthew Gabel, Jimin Ding, Mark Huffman\\
+  Washington University Incubator for Transdisciplinary Futures (2022–2025)
+- **LRP Health Disparities Award**\\
+  NIH National Institute on Minority Health and Health Disparities (2019–2021)
+- **Dissertation Fellowship**\\
+  UW Graduate Opportunities and Minority Achievement Program (2017–2018)
+- **NICHD Training Fellowship**\\
+  University of Washington Center for Studies in Demography and Ecology (2015–2017)
+
 ## Recent Presentations
 
-*2023–2024*
+*Since 2023*
 
 1. **Neighborhoods and Cognitive Function among Older Adults**\\
    National Academies of Sciences: Identifying Midlife Social Exposures that might Modify Risk for Cognitive Impairment Associated with Early Life Disadvantage\\
@@ -246,36 +279,6 @@ population health; race; statistical methodology; social/spatial context
   Washington University in St. Louis, Fall 2021 & 2022
 - **Introduction to Racial and Ethnic Health Disparities in the United States**\\
   University of Washington, Summer 2018
-
-## Fellowships & Grants
-
-- **Life Course Cognability: A Mixed Methods Study of the Place-Based Determinants of Late-Age Cognitive Health Outcomes** (Co-PI)\\
-  PIs: Jessica Finlay, Michael Esposito\\
-  University of Minnesota Life Course Center Pilot Grant (2023–2024)
-- **The Relationship Between State Violence, Trust in Government, and Vaccine Uptake** (Co-PI)\\
-  PIs: Caitlin McMurtry, Michael Esposito, Matthew Gabel, Darrell Hudson\\
-  Washington University Transdisciplinary Institute in Applied Data Sciences Seed Grant (2023–2024)
-- **The St. Louis Policy Initiative: Segregation, Public Health, and Environmental Policy** (Co-PI)\\
-  PIs: Michael Esposito, Matthew Gabel, Elizabeth Korver-Glenn, Scott Krummenacher, Andrew Reeves\\
-  Washington University Incubator for Transdisciplinary Futures (2022–2025)
-- **Trust and Public Health Incubator** (Co-PI)\\
-  PIs: David Carter, Michael Esposito, Matthew Gabel, Jimin Ding, Mark Huffman\\
-  Washington University Incubator for Transdisciplinary Futures (2022–2025)
-- **Estimating the impact of the school-to-prison pipeline on adolescent health: racialized, spatial disparities in policing, school discipline, substance use, and mental illness** (Co-PI)\\
-  PI: Seth Prins, Columbia University\\
-  NIH (2024–2028)
-- **DNA methylation in context: Racial inequities in social adversity and vulnerability to the health impact of air pollution** (Co-PI)\\
-  PI: Margaret Hicken, University of Michigan\\
-  NIH (2021–2026)
-- **Examining racial segregation and underlying mechanisms related to VCID and incident stroke in the REGARDS study** (Co-PI)\\
-  PI: Natalie Colabianchi, University of Michigan\\
-  NINDS (2022–2026)
-- **LRP Health Disparities Award**\\
-  NIH National Institute on Minority Health and Health Disparities (2019–2021)
-- **Dissertation Fellowship**\\
-  UW Graduate Opportunities and Minority Achievement Program (2017–2018)
-- **NICHD Training Fellowship**\\
-  University of Washington Center for Studies in Demography and Ecology (2015–2017)
 
 ## Editorial Service
 
