@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/latex.css@latest/style.min.css">
+    <style>
+        body {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .cv-header {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .cv-header h1 {
+            margin-bottom: 5px;
+        }
+        .cv-header p {
+            margin: 2px 0;
+            text-align: center;
+        }
+        .updated {
+            font-size: 0.85em;
+            font-style: italic;
+        }
+        h2 {
+            margin-top: 35px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        ul, ol {
+            padding-left: 1.8em;
+        }
+        li {
+            margin-bottom: 12px;
+        }
+        ol li::marker {
+            font-size: 0.85em;
+        }
+        .nav-links {
+            margin-top: 40px;
+            text-align: center;
+        }
+        .nav-links a {
+            margin: 0 15px;
+        }
+    </style>
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-281T0T13E7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-281T0T13E7');
+</script>
+
+</head>
+<body>
+    <div class="cv-header">
+        <h1>Michael H. Esposito</h1>
+        <p><a href="mailto:mesposit@umn.edu">mesposit@umn.edu</a> • <a href="https://www.mhesposito.io/">mhesposito.io</a></p>
+        {% if page.updated %}<p class="updated">Updated {{ page.updated | date: "%B %-d, %Y" }}</p>{% endif %}
+    </div>
+
+    {{ content }}
+
+    <div class="nav-links">
+        <a href="index.html">home</a>
+        <a href="bio.html">bio</a>
+    </div>
+</body>
+</html>
