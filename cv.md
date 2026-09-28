@@ -61,16 +61,16 @@ population health; race; statistical methodology; social/spatial context
    Sunny Lin, Gmerice Hammond, **Michael Esposito**, Cassandra Majewski, Randi Foraker, Karen Joynt Maddox\\
    *JAMA Health Forum*, 2024.
 1. **Historical redlining and contemporary racial disparities in neighborhood life expectancy**\\
-   Nick Graetz, **Michael H. Esposito** ★\\
+   Nick Graetz, **Michael H. Esposito**\\
    *Social Forces*, 2023.
 1. **Policing and Population Health: Past, Present, and Future**\\
-   Hedwig Lee, Savannah Larimore, **Michael Esposito** ★\\
+   Hedwig Lee, Savannah Larimore, **Michael Esposito**\\
    *Milbank Quarterly*, 2023.
 1. **Neighborhood "Disamenities:" local barriers and cognitive function among Black and white aging adults**\\
    Wenshan Yu, **Michael Esposito**, Mao Li, Philippa Clarke, Suzanne Judd, Jessica Finlay\\
    *BMC Public Health*, 2023.
 1. **Cognability: An Ecological Theory of Neighborhoods and Cognitive Aging**\\
-   Jessica Finlay, **Michael Esposito** ★, Ken Langa, Suzanne Judd, Philippa Clarke\\
+   Jessica Finlay, **Michael Esposito**, Ken Langa, Suzanne Judd, Philippa Clarke\\
    *Social Science and Medicine*, 2022.\\
    *NIH Matilda White Riley Early Stage Investigator Paper Award*
 1. **Structural Racism and Quantitative Causal Inference: A Life-Course Mediation Framework for Decomposing Racial Health Disparities**\\
@@ -92,22 +92,22 @@ population health; race; statistical methodology; social/spatial context
    **Michael H. Esposito**, Savannah Larimore, Hedwig Lee\\
    *Health Affairs*, 2021.
 1. **White Health Benefits of Histories of Enslavement: The Case of Opioid Deaths**\\
-   Ryan Gabriel, **Michael H. Esposito** ★, Geoff Ward, Hedwig Lee, Margaret Hicken, David Cunningham\\
+   Ryan Gabriel, **Michael H. Esposito**, Geoff Ward, Hedwig Lee, Margaret Hicken, David Cunningham\\
    *The Annals of the American Academy of Political and Social Science*, 2021.
 1. **Neighborhood Active Aging Infrastructure and Cognitive Function: A Mixed-Methods Study of Older Americans**\\
-   Jessica Finlay, **Michael H. Esposito** ★, Mao Li, Natalie Colabianchi, Huajun Zhou, Suzanne Judd, Philippa Clarke\\
+   Jessica Finlay, **Michael H. Esposito**, Mao Li, Natalie Colabianchi, Huajun Zhou, Suzanne Judd, Philippa Clarke\\
    *Preventive Medicine*, 2021.
 1. **Linking History to Contemporary State-Sanctioned Slow Violence through Cultural and Structural Racism**\\
    Margaret T. Hicken, Regan Patterson, Lewis Miles, Solome Haile, **Michael Esposito**\\
    *The Annals of the American Academy of Political and Social Science*, 2021.
 1. **Can Neighborhood Social Infrastructure Modify Cognitive Function? A Mixed-Methods Study of Urban-Dwelling Aging Americans**\\
-   Jessica Finlay, **Michael H. Esposito** ★, Mao Li, Lindsay Kobayashi, Anam Khan, Iris Gomez-Lopez, Robert Melendez, Natalie Colabianchi, Suzanne Judd, Philippa Clarke\\
+   Jessica Finlay, **Michael H. Esposito**, Mao Li, Lindsay Kobayashi, Anam Khan, Iris Gomez-Lopez, Robert Melendez, Natalie Colabianchi, Suzanne Judd, Philippa Clarke\\
    *Journal of Aging and Health*, 2021.
 1. **Racial segregation and cognitive function among older adults in the United States: Findings from the Reasons for Geographic and Racial Differences in Stroke (REGARDS) study**\\
    Joy Jang, Margaret T. Hicken, Megan Mullins, **Michael H. Esposito**, Ketlyne Sol, Jennifer Manly, Suzanne Judd, Philippa Clarke\\
    *The Journals of Gerontology: Series B*, 2021.
 1. **Retail Food Environments as Resources for Cognitive Health and Wellbeing Among Aging Americans**\\
-   Jessica Finlay, **Michael H. Esposito** ★, Sandra Tang, Iris Gomez-Lopez, Dominique Sylvers, Suzanne Judd, Philippa Clarke\\
+   Jessica Finlay, **Michael H. Esposito**, Sandra Tang, Iris Gomez-Lopez, Dominique Sylvers, Suzanne Judd, Philippa Clarke\\
    *Health & Place*, 2020.
 1. **Inequality in Process: Income and Heterogeneous Educational Health Gradients among Blacks and Whites in the U.S.**\\
    **Michael H. Esposito**\\
@@ -116,10 +116,10 @@ population health; race; statistical methodology; social/spatial context
    Frank Edwards, Hedwig Lee, **Michael H. Esposito**\\
    *Proceedings of the National Academy of Sciences*, 2019.
 1. **Closure of Third-Places? Exploring Potential Consequences for Collective Health and Wellbeing**\\
-   Jessica Finlay, **Michael H. Esposito** ★, Min Hee Kim, Iris Gomez-Lopez, Philippa Clarke\\
+   Jessica Finlay, **Michael H. Esposito**, Min Hee Kim, Iris Gomez-Lopez, Philippa Clarke\\
    *Health & Place*, 2019.
 1. **Risk of Police-Involved Death by Race/Ethnicity and Place, United States, 2012–2018**\\
-   Frank Edwards, **Michael H. Esposito** ★, Hedwig Lee\\
+   Frank Edwards, **Michael H. Esposito**, Hedwig Lee\\
    *American Journal of Public Health*, 2018.
 1. **The Consequences of Contact with the Criminal Justice System for Health in the Transition to Adulthood**\\
    **Michael H. Esposito**, Hedwig E. Lee, Margaret Hicken, Lauren Porter, Jerald Herting\\
@@ -153,10 +153,10 @@ population health; race; statistical methodology; social/spatial context
    Daniel Aldana Cohen, Nick Graetz, Seth J. Prins, **Michael Esposito**\\
    Revise and resubmit.
 1. **Sundown Towns and the Contemporary, Racialized Organization of Space**\\
-   David Rigby, Sierra Clark, **Michael H. Esposito** ★, Hedwig E. Lee, Tyson Brown\\
+   David Rigby, Sierra Clark, **Michael H. Esposito**, Hedwig E. Lee, Tyson Brown\\
    Under review.
 1. **Neighborhood Exposure to Police Violence: A Racialized Geography of Fatal Encounters**\\
-   Carmen Guiterrez, Robert Melendez, **Michael Esposito**, Lindsay Gypin, Grace Noppert\\
+   Carmen Gutierrez, Robert Melendez, **Michael Esposito**, Lindsay Gypin, Grace Noppert\\
    In preparation.
 1. **Professional Football Players and Mortality Consequences Over Time**\\
    Nadia Jackson-Fitch, John R. Warren, Gina Rumore, **Michael Esposito**, Douglas Hartmann\\
