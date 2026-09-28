@@ -269,7 +269,9 @@ population health; race; statistical methodology; social/spatial context
 
 ## Teaching
 
-- **Environmental Sociology**\\
+- **Sociology as a Profession**\\
+  University of Minnesota
+- **Environment and Society**\\
   University of Minnesota
 - **Sociology of Health and Illness**\\
   University of Minnesota
