@@ -170,23 +170,17 @@ population health; race; statistical methodology; social/spatial context
 *Includes the projects closest to publication.*
 
 1. **Neighborhood Exposure to Police Violence: A Racialized Geography of Fatal Encounters**\\
-   Carmen Gutierrez, Robert Melendez, **Michael Esposito**, Lindsay Gypin, Grace Noppert\\
-   In preparation.
+   Carmen Gutierrez, Robert Melendez, **Michael Esposito**, Lindsay Gypin, Grace Noppert
 1. **Skin Tone Measurement via Agentic AI**\\
-   Jack Hasche, John Robert Warren, **Michael H. Esposito**\\
-   In preparation.
+   Jack Hasche, John Robert Warren, **Michael H. Esposito**
 1. **From Amenity to Disamenity: Rethinking Neighborhood Resources and Health**\\
-   Jessica Finlay, Hayes Hart-Thompson, Zhe Lin, Mallory Sagehorn, Grace Savard, **Michael Esposito**\\
-   In preparation.
+   Jessica Finlay, Hayes Hart-Thompson, Zhe Lin, Mallory Sagehorn, Grace Savard, **Michael Esposito**
 1. **The Scarcity of Guidance for Communicating Race, Ethnicity, Sex, and Gender in Journals**\\
-   Rae Anne Martinez, **Michael Esposito**, Nafeesa Andrabi, Noah Haber, Natalie Riva Smith, Kene Orakwue, Lilian Norman\\
-   In preparation.
+   Rae Anne Martinez, **Michael Esposito**, Nafeesa Andrabi, Noah Haber, Natalie Riva Smith, Kene Orakwue, Lilian Norman
 1. **Covenanted-Policing: How does historical spatial racism shape contemporary policing practices?**\\
-   Christopher Robertson, **Michael Esposito**\\
-   In preparation.
-1. **Reimagining the State's Role in Family Life: A Large Language Model Analysis of Six Decades of Congressional Testimony on Child Welfare**\\
-   Eunhye Ahn, Sarah Flood, **Michael Esposito**\\
-   In preparation.
+   Christopher Robertson, **Michael Esposito**
+1. **Sixty Years of Testimony: Tracing the U.S. State's Changing Role in Children's and Families' Lives with Large Language Models**\\
+   Eunhye Ahn, Sarah Flood, **Michael Esposito**
 {: reversed="reversed"}
 
 ## Recent Presentations
