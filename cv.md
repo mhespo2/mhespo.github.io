@@ -36,18 +36,6 @@ population health; race; statistical methodology; social/spatial context
 - **University of Missouri**, Columbia, Missouri\\
   BA in Sociology, 2007–2011
 
-## Honors & Awards
-
-- **Scholar of the College**, College of Liberal Arts, University of Minnesota, 2025
-- **Matilda White Riley Early Stage Investigator Paper Award**, National Institutes of Health\\
-  For "Cognability: An Ecological Theory of Neighborhoods and Cognitive Aging"
-- **Distinguished Contribution to Scholarship Article Award**, ASA Section on Race, Gender, and Class\\
-  For "Beholding Inequality: Race, Gender, Physical Attractiveness, and SES in the United States"
-- **Best Article Award**, ASA Section on the Sociology of Body and Embodiment\\
-  For "Beholding Inequality"
-- **Devah Pager Award, Honorable Mention**, ASA Section on Inequality, Poverty, and Mobility\\
-  For "Beholding Inequality"
-
 ## Journal Articles
 
 1. **Measuring "third places": Comparing neighborhood data for cognitive health research**\\
@@ -225,6 +213,8 @@ population health; race; statistical methodology; social/spatial context
 - **Trust and Public Health Incubator** (Co-PI)\\
   PIs: David Carter, Michael Esposito, Matthew Gabel, Jimin Ding, Mark Huffman\\
   Washington University Incubator for Transdisciplinary Futures (2022–2025)
+- **Scholar of the College**\\
+  College of Liberal Arts, University of Minnesota (2025)
 - **LRP Health Disparities Award**\\
   NIH National Institute on Minority Health and Health Disparities (2019–2021)
 - **Dissertation Fellowship**\\
