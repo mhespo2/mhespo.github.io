@@ -169,6 +169,9 @@ population health; race; statistical methodology; social/spatial context
 
 *Includes the projects closest to publication.*
 
+1. **Divergent Trajectories of AI Divides: Inequality in Usage and Adoption Across Sociodemographic Groups and Technology Types 2023–2024**\\
+   Eunhye Ahn, **Michael Esposito**, Nari Yoo\\
+   [SSRN preprint](https://ssrn.com/abstract=6149478)
 1. **Invisible Labor, Visible Impact: Health Disparities Among Asian American Caregivers**\\
    Shania Kuo, **Michael Esposito**
 1. **Neighborhood Exposure to Police Violence: A Racialized Geography of Fatal Encounters**\\
