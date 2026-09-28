@@ -169,18 +169,18 @@ population health; race; statistical methodology; social/spatial context
 
 *Includes the projects closest to publication.*
 
+1. **Skin Tone Measurement via Agentic AI**\\
+   Jack Hasche, John Robert Warren, **Michael H. Esposito**
 1. **Aging Through Time and Place: Conceptual and Methodological Tensions in Studying the Association between Place and Health Across the Life Course**\\
    Yue Sun, **Michael Esposito**, Jessica Finlay
-1. **‘Distrust Just Trickles All the Way Down’: Narratives of Police Contact and Trust in Government among Black and White Adults**\\
-   Caitlin McMurtry, **Michael Esposito**, Han Koehle, Sierra Clark, Cinthia Romo Alba, Jé Judson
 1. **Divergent Trajectories of AI Divides: Inequality in Usage and Adoption Across Sociodemographic Groups and Technology Types 2023–2024**\\
    Eunhye Ahn, **Michael Esposito**, Nari Yoo
 1. **Invisible Labor, Visible Impact: Health Disparities Among Asian American Caregivers**\\
    Shania Kuo, **Michael Esposito**
+1. **‘Distrust Just Trickles All the Way Down’: Narratives of Police Contact and Trust in Government among Black and White Adults**\\
+   Caitlin McMurtry, **Michael Esposito**, Han Koehle, Sierra Clark, Cinthia Romo Alba, Jé Judson
 1. **Neighborhood Exposure to Police Violence: A Racialized Geography of Fatal Encounters**\\
    Carmen Gutierrez, Robert Melendez, **Michael Esposito**, Lindsay Gypin, Grace Noppert
-1. **Skin Tone Measurement via Agentic AI**\\
-   Jack Hasche, John Robert Warren, **Michael H. Esposito**
 1. **From Amenity to Disamenity: Rethinking Neighborhood Resources and Health**\\
    Jessica Finlay, Hayes Hart-Thompson, Zhe Lin, Mallory Sagehorn, Grace Savard, **Michael Esposito**
 1. **The Scarcity of Guidance for Communicating Race, Ethnicity, Sex, and Gender in Journals**\\
