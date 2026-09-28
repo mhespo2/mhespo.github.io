@@ -16,8 +16,7 @@ population health; race; statistical methodology; social/spatial context
 ## Appointments
 
 - **University of Minnesota**, Minneapolis, Minnesota\\
-  Associate Professor, 2025–present\\
-  *Don A. Martindale Endowed Chair in Sociology*
+  Associate Professor, 2025–present
 - **University of Minnesota**, Minneapolis, Minnesota\\
   Assistant Professor, 2023–2025\\
   *Don A. Martindale Endowed Chair in Sociology*

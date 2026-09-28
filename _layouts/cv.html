@@ -5,16 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/latex.css@latest/style.min.css">
+    <link rel="stylesheet" href="site.css">
     <style>
-        body {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
         .cv-header {
             text-align: center;
-            margin-bottom: 10px;
         }
         .cv-header h1 {
             margin-bottom: 5px;
@@ -26,11 +20,7 @@
         .updated {
             font-size: 0.85em;
             font-style: italic;
-        }
-        h2 {
-            margin-top: 35px;
-            margin-bottom: 10px;
-            border-bottom: 1px solid #ddd;
+            opacity: 0.75;
         }
         ul, ol {
             padding-left: 1.8em;
@@ -38,15 +28,11 @@
         li {
             margin-bottom: 12px;
         }
+        li::marker {
+            color: var(--band);
+        }
         ol li::marker {
             font-size: 0.85em;
-        }
-        .nav-links {
-            margin-top: 40px;
-            text-align: center;
-        }
-        .nav-links a {
-            margin: 0 15px;
         }
     </style>
 
@@ -62,7 +48,7 @@
 
 </head>
 <body>
-    <div class="cv-header">
+    <div class="cv-header band">
         <h1>Michael H. Esposito</h1>
         <p><a href="mailto:mesposit@umn.edu">mesposit@umn.edu</a> • <a href="https://www.mhesposito.io/">mhesposito.io</a></p>
         {% if page.updated %}<p class="updated">Updated {{ page.updated | date: "%B %-d, %Y" }}</p>{% endif %}
