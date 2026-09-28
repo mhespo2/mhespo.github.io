@@ -269,19 +269,24 @@ population health; race; statistical methodology; social/spatial context
 
 ## Teaching
 
+- **Sociology as a Profession**\\
+  University of Minnesota
+- **Environment and Society**\\
+  University of Minnesota
 - **Sociology of Health and Illness**\\
-  University of Minnesota, Spring 2024
+  University of Minnesota
 - **Social Statistics**\\
-  University of Minnesota, Fall 2023
+  University of Minnesota
 - **Sick Society**\\
-  Washington University in St. Louis, Spring 2022 & 2023
+  Washington University in St. Louis
 - **Statistics for Sociology**\\
-  Washington University in St. Louis, Fall 2021 & 2022
+  Washington University in St. Louis
 - **Introduction to Racial and Ethnic Health Disparities in the United States**\\
-  University of Washington, Summer 2018
+  University of Washington
 
 ## Editorial Service
 
+- ***Journal of Health and Social Behavior***, editorial board, 2026–present
 - ***Demography***, deputy editor, 2025–present
 - ***Social Forces***, editorial board, 2023–present
 - ***Socius***, editorial board, 2021–2024
