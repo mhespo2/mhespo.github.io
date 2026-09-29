@@ -230,6 +230,18 @@ population health; race; statistical methodology; social/spatial context
 
 *Since 2023*
 
+1. **Sociohistorical Contexts of Racial Violence: Sundown Towns and the Durability of Racialized Public Space**\\
+   Institute for Research on Poverty, University of Wisconsin–Madison\\
+   (October 2026; invited)
+1. **Skin Tone Measurement via Agentic AI**\\
+   Interdisciplinary Association for Population Health Science Annual Meeting, Portland, OR\\
+   (September 2026)
+1. **Sociohistorical Contexts of Racial Violence: Sundown Towns and the Durability of Racialized Public Space**\\
+   Health Policy and Management Seminar, University of Minnesota School of Public Health\\
+   (March 2026; invited)
+1. **Enhancing Models of Health Inequities through Diverse Historical Information**\\
+   Interdisciplinary Association for Population Health Science Annual Meeting\\
+   (2025)
 1. **Neighborhoods and Cognitive Function among Older Adults**\\
    National Academies of Sciences: Identifying Midlife Social Exposures that might Modify Risk for Cognitive Impairment Associated with Early Life Disadvantage\\
    (August 2024; invited)
