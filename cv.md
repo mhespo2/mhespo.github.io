@@ -171,6 +171,8 @@ population health; race; statistical methodology; social/spatial context
 
 1. **Skin Tone Measurement via Agentic AI**\\
    Jack Hasche, John Robert Warren, **Michael H. Esposito**
+1. **Effects of city historical redlining on neighborhood inequality and population health: a population discontinuity design approach**\\
+   Theresa Osypuk, Samantha Gailey, Naomi Thyden, **Michael Esposito**
 1. **Aging Through Time and Place: Conceptual and Methodological Tensions in Studying the Association between Place and Health Across the Life Course**\\
    Yue Sun, **Michael Esposito**, Jessica Finlay
 1. **Divergent Trajectories of AI Divides: Inequality in Usage and Adoption Across Sociodemographic Groups and Technology Types 2023–2024**\\
@@ -294,6 +296,8 @@ population health; race; statistical methodology; social/spatial context
 
 ## Teaching
 
+### Classes
+
 - **Sociology as a Profession**\\
   University of Minnesota
 - **Environment and Society**\\
@@ -308,6 +312,17 @@ population health; race; statistical methodology; social/spatial context
   Washington University in St. Louis
 - **Introduction to Racial and Ethnic Health Disparities in the United States**\\
   University of Washington
+
+### Workshops
+
+- **Using AI for Coding**\\
+  Minnesota Population Center (October 2026)
+- **Introduction to R**\\
+  NextGenPop Workshop (Summer 2026)
+- **What's the Right Method and Data for Your Research Idea?**\\
+  Minnesota Population Center (March 2026)
+- **Personal Websites & How to Build One**\\
+  Minnesota Population Center (May 2024)
 
 ## Editorial Service
 
