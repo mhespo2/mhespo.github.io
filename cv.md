@@ -193,7 +193,9 @@ population health; race; statistical methodology; social/spatial context
    Eunhye Ahn, Sarah Font, **Michael Esposito**
 {: reversed="reversed"}
 
-## Fellowships & Grants
+## Grants & Fellowships
+
+### Grants
 
 - **Life Course Cognability: A Mixed Methods Study of Neighborhoods and Cognitive Health** (MPI)\\
   PIs: Jessica Finlay (contact), Michael Esposito\\
@@ -219,6 +221,9 @@ population health; race; statistical methodology; social/spatial context
 - **Trust and Public Health Incubator** (Co-PI)\\
   PIs: David Carter, Michael Esposito, Matthew Gabel, Jimin Ding, Mark Huffman\\
   Washington University Incubator for Transdisciplinary Futures (2022–2025)
+
+### Fellowships & Awards
+
 - **Scholar of the College**\\
   College of Liberal Arts, University of Minnesota (2025)
 - **LRP Health Disparities Award**\\
@@ -337,4 +342,4 @@ Population Association of America; American Sociological Association; Interdisci
 
 ## Skills
 
-R; Git; LaTeX; RMarkdown
+R; Git; LaTeX; RMarkdown; AI-assisted coding (e.g., Claude Code)
