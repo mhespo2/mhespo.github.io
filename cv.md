@@ -171,6 +171,8 @@ population health; race; statistical methodology; social/spatial context
 
 1. **Skin Tone Measurement via Agentic AI**\\
    Jack Hasche, John Robert Warren, **Michael H. Esposito**
+1. **Effects of city historical redlining on neighborhood inequality and population health: a population discontinuity design approach**\\
+   Theresa Osypuk, Samantha Gailey, Naomi Thyden, **Michael Esposito**
 1. **Aging Through Time and Place: Conceptual and Methodological Tensions in Studying the Association between Place and Health Across the Life Course**\\
    Yue Sun, **Michael Esposito**, Jessica Finlay
 1. **Divergent Trajectories of AI Divides: Inequality in Usage and Adoption Across Sociodemographic Groups and Technology Types 2023–2024**\\
@@ -188,7 +190,7 @@ population health; race; statistical methodology; social/spatial context
 1. **Covenanted-Policing: How does historical spatial racism shape contemporary policing practices?**\\
    Christopher Robertson, **Michael Esposito**
 1. **Sixty Years of Testimony: Tracing the U.S. State's Changing Role in Children's and Families' Lives with Large Language Models**\\
-   Eunhye Ahn, Sarah Flood, **Michael Esposito**
+   Eunhye Ahn, Sarah Font, **Michael Esposito**
 {: reversed="reversed"}
 
 ## Fellowships & Grants
@@ -230,6 +232,21 @@ population health; race; statistical methodology; social/spatial context
 
 *Since 2023*
 
+1. **Sociohistorical Contexts of Racial Violence: Sundown Towns and the Durability of Racialized Public Space**\\
+   Institute for Research on Poverty, University of Wisconsin–Madison\\
+   (October 2026; invited)
+1. **Skin Tone Measurement via Agentic AI**\\
+   Interdisciplinary Association for Population Health Science Annual Meeting, Portland, OR\\
+   (September 2026)
+1. **Plenary Panel: Challenges and Opportunities in Research, Data, and Publishing in the Social Sciences**\\
+   American Society of Health Economists (ASHEcon) Annual Conference, Minneapolis, MN\\
+   (June 2026; invited)
+1. **Sociohistorical Contexts of Racial Violence: Sundown Towns and the Durability of Racialized Public Space**\\
+   Health Policy and Management Seminar, University of Minnesota School of Public Health\\
+   (March 2026; invited)
+1. **Enhancing Models of Health Inequities through Diverse Historical Information**\\
+   Interdisciplinary Association for Population Health Science Annual Meeting\\
+   (2025)
 1. **Neighborhoods and Cognitive Function among Older Adults**\\
    National Academies of Sciences: Identifying Midlife Social Exposures that might Modify Risk for Cognitive Impairment Associated with Early Life Disadvantage\\
    (August 2024; invited)
@@ -279,6 +296,8 @@ population health; race; statistical methodology; social/spatial context
 
 ## Teaching
 
+### Classes
+
 - **Sociology as a Profession**\\
   University of Minnesota
 - **Environment and Society**\\
@@ -293,6 +312,17 @@ population health; race; statistical methodology; social/spatial context
   Washington University in St. Louis
 - **Introduction to Racial and Ethnic Health Disparities in the United States**\\
   University of Washington
+
+### Workshops
+
+- **Using AI for Coding**\\
+  Minnesota Population Center (October 2026)
+- **Introduction to R**\\
+  NextGenPop Workshop (Summer 2026)
+- **What's the Right Method and Data for Your Research Idea?**\\
+  Minnesota Population Center (March 2026)
+- **Personal Websites & How to Build One**\\
+  Minnesota Population Center (May 2024)
 
 ## Editorial Service
 

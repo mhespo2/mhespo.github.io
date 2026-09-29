@@ -70,3 +70,13 @@ h2:nth-of-type(6n)   { --block: var(--slate); }
 .nav-links a {
     margin: 0 15px;
 }
+
+/* # Subsection headings (e.g., Teaching > Classes / Workshops) */
+h3 {
+    margin-top: 22px;
+    margin-bottom: 6px;
+    font-size: 1.05em;
+    font-style: italic;
+    font-weight: normal;
+    color: var(--band);
+}
