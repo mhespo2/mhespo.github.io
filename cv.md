@@ -236,6 +236,9 @@ population health; race; statistical methodology; social/spatial context
 1. **Skin Tone Measurement via Agentic AI**\\
    Interdisciplinary Association for Population Health Science Annual Meeting, Portland, OR\\
    (September 2026)
+1. **Plenary Panel: Challenges and Opportunities in Research, Data, and Publishing in the Social Sciences**\\
+   American Society of Health Economists (ASHEcon) Annual Conference, Minneapolis, MN\\
+   (June 2026; invited)
 1. **Sociohistorical Contexts of Racial Violence: Sundown Towns and the Durability of Racialized Public Space**\\
    Health Policy and Management Seminar, University of Minnesota School of Public Health\\
    (March 2026; invited)
