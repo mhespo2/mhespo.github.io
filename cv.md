@@ -326,8 +326,8 @@ population health; race; statistical methodology; social/spatial context
   NextGenPop Workshop (Summer 2026)
 - **What's the Right Method and Data for Your Research Idea?**\\
   Minnesota Population Center (March 2026)
-- **Introduction to Quantitative Methods for Qualitative Researchers** (co-instructor)\\
-  KAIST Graduate School of Science and Technology Policy, Daejeon, South Korea (December 2025; invited)
+- **Introduction to Quantitative Methods for Qualitative Researchers**\\
+  KAIST Graduate School of Science and Technology Policy (December 2025)
 - **Personal Websites & How to Build One**\\
   Minnesota Population Center (May 2024)
 
