@@ -29,7 +29,8 @@ population health; race; statistical methodology; social/spatial context
 
 - **University of Washington**, Seattle, Washington\\
   PhD in Sociology, 2013–2018\\
-  Certificates in Demography and Statistics\\
+  Concentration in Social Statistics (Center for Statistics and the Social Sciences)\\
+  Graduate Certificate in Demographic Methods (Center for Studies in Demography and Ecology)\\
   Committee: Drs. Hedwig Lee, Jerald Herting, Stewart Tolnay, Anjum Hajat
 - **University of Washington**, Seattle, Washington\\
   MA in Sociology, 2011–2013
