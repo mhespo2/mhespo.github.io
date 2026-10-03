@@ -333,6 +333,7 @@ population health; race; statistical methodology; social/spatial context
 
 ## Editorial Service
 
+- ***American Journal of Sociology***, consulting editor, 2026–present
 - ***Journal of Health and Social Behavior***, editorial board, 2026–present
 - ***Demography***, deputy editor, 2025–present
 - ***Social Forces***, editorial board, 2023–present
