@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Michael H. Esposito | CV
-updated: 2026-09-28
+updated: 2026-10-12
 # ## Editing notes
 # .. bump `updated` above whenever you change something
 # .. numbered lists count DOWN automatically (thanks to the `{: reversed="reversed"}` line
