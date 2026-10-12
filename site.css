@@ -80,3 +80,47 @@ h3 {
     font-weight: normal;
     color: var(--band);
 }
+
+/* # Print / Save as PDF */
+@media print {
+    @page {
+        size: letter;
+        margin: 0.6in 0.7in 0.7in;
+    }
+    /* .. keep the band and color blocks when printing */
+    * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    body {
+        max-width: none;
+        padding: 0;
+        background: #fff;
+        font-size: 10pt;
+        line-height: 1.3;
+    }
+    /* .. drop the edge-to-edge trick; the band sits inside the page margins */
+    .band {
+        box-shadow: none;
+        clip-path: none;
+        margin: 0 0 18px;
+        padding: 18px 20px;
+    }
+    a {
+        text-decoration: none;
+    }
+    h2, h3 {
+        break-after: avoid;
+    }
+    h2 {
+        margin-top: 18px;
+        margin-bottom: 6px;
+    }
+    li {
+        margin-bottom: 5px;
+        break-inside: avoid;
+    }
+    .nav-links {
+        display: none;
+    }
+}
